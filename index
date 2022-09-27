@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+    
+    <head>
+        <meta charset="utf-8">
+        
+        <title>INVICTUS INTERNATIONAL SCHOOL</title>
+        
+        <meta name="description" content="MATHEMATICS">
+        
+        <link rel="stylesheet" href="karuna-main.css">
+        
+    </head>
+    
+    <body>
+        
+        <h1>INVICTUS INTERNATIONAL SCHOOL</h1>
+        
+        <h2>Welcome!</h2>
+        
+              
+        <p>
+           Teacher: Mr.Karuna <br>
+            subject: Mathematics and Digital Literacy<br>
+        </p>
+       
+        
+        
+       
+         <a href="Images/001.jpg">My Photo
+    
+        </a>  
+       <img src="Images/001.jpg"/>
+        <style>
+          img {width:100px;border-radius: 50px;float: left;margin-right: 10px;}
+        </style>
+        
+        
+       
+          
+        
+        <p class="note">
+            
+        </p>
+        
+        <h3>Hi! This is Mr.Karuna</h3>
+        <p>
+            I am thrilled that you will be in my class this academic year 2022-2023. We are going to learn so many new and exciting things together. This my 27th year of teaching in school. It is important to treat each other with respect, kindness, and compassion during Math and Digital Literacy lessons.
+        </p>
+        
+        <nav>
+            <ul>
+            <li><a href="year7rpMath.html">Year 7 Respect Mathematics</a></li>
+            <li><a href="year9rpMath.html">Year 9 Respect Mathematics</a></li>
+            <li><a href="year10rlMath.html">Year 10 Resilience Mathematics</a></li>
+            <li><a href="year7rpDL.html">Year 7 Respect Digital Lireacy</a></li>
+            <li><a href="year8rlDL.html">Year 8 Resilience Mathematics</a></li>
+                         
+            </ul>
+        </nav>
+      
+        
+        
+    </body>
+</html>
